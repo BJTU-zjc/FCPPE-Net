@@ -3,7 +3,7 @@
 **FCPPE-Net: Calibrating the Principal Point of Vehicle-Mounted Fisheye Cameras Using Point-Oriented Representation**  
 [IEEE SENSORS JOURNAL, 2024]
 
-** GitHub:** https://github.com/BJTU-zjc/FCPPE-Net  
+**GitHub:** https://github.com/BJTU-zjc/FCPPE-Net  
 
 ## Overview
 
